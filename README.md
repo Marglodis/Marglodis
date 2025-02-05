@@ -1,13 +1,29 @@
 <h1 align="center">Hi 👋, I'm Márglodis Tovar</h1>
 <h3 align="center">A DesafioLatam Bootcamp Student</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+# ¡Hola! Soy Márglodis Tovar 👋  
 
-- 📫 How to reach me **marglodistovar@gmail.com**
+### 🚀 Desarrolladora de Software | Java | Spring Boot | JSP  
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1SVvpPKqv5855Bf1UGc_5uBUg8TgAQ9Rm](https://drive.google.com/drive/folders/1SVvpPKqv5855Bf1UGc_5uBUg8TgAQ9Rm?usp=sharing)
+Soy **Ingeniera en Computación** con una sólida trayectoria en tecnología, iniciando con más de una década en soporte técnico y evolucionando hacia el desarrollo de software. Me apasiona crear soluciones eficientes y escalables con **Java, Spring Boot y JSP**, además de modernizar y mantener sistemas heredados en **PHP**.  
 
-<h3 align="left">Connect with me:</h3>
+### 💡 Sobre mí  
+- 💻 Actualmente trabajo en **Parés & Álvarez** en Santiago, Chile.  
+- 🔧 Experiencia en desarrollo fullstack con **Spring Boot, Java JSP y PHP**.  
+- 🛠 Gestión de código con **GitLab**, asegurando flujos de trabajo organizados.  
+- 🚀 Me encanta aprender, resolver problemas y mejorar continuamente.  
+
+### 🛠️ Tecnologías y herramientas  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
+
+### 📫 Contáctame  
+📧 **Email:** marglodistovar@gmail.com  
+📄 **Más sobre mi experiencia:** [Mi CV](https://drive.google.com/drive/folders/1SVvpPKqv5855Bf1UGc_5uBUg8TgAQ9Rm)  
+
 <p align="left">
 <a href="https://linkedin.com/in/marglodistovar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marglodistovar" height="30" width="40" /></a>
 </p>
