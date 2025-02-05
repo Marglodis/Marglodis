@@ -28,12 +28,13 @@ Soy **Ingeniera en Computación** con una sólida trayectoria en tecnología, in
 
 
 ### 📫 Contáctame  
-📧 **Email:** marglodistovar@gmail.com  
-📄 **Más sobre mi experiencia:** [Mi CV](https://drive.google.com/drive/folders/1SVvpPKqv5855Bf1UGc_5uBUg8TgAQ9Rm)  
-
 <p align="left">
 <a href="https://linkedin.com/in/marglodistovar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marglodistovar" height="30" width="40" /></a>
 </p>
+📧 **Email:** marglodistovar@gmail.com  
+📄 **Más sobre mi experiencia:** [Mi CV](https://drive.google.com/drive/folders/1SVvpPKqv5855Bf1UGc_5uBUg8TgAQ9Rm)  
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marglodis&show_icons=true&locale=en&layout=compact" alt="marglodis" /></p>
 
