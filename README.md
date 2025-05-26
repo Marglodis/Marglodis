@@ -5,7 +5,6 @@
 Soy **Ingeniera en Computación** con una sólida trayectoria en tecnología, iniciando con más de una década en soporte técnico y evolucionando hacia el desarrollo de software. Me apasiona crear soluciones eficientes y escalables, además de modernizar y mantener sistemas heredados en **PHP**.
 
 ### 💡 Sobre mí  
-- 💻 Actualmente trabajo en **Parés & Álvarez** en Santiago, Chile.  
 - 🔧 Experiencia en desarrollo fullstack con **Spring Boot, Angular**.  
 - 🛠 Gestión de código con **GitLab**, asegurando flujos de trabajo organizados.  
 - 🚀 Me encanta aprender, resolver problemas y mejorar continuamente.  
